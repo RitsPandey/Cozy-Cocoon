@@ -1,0 +1,23 @@
+
+body {background-color: #fff9a7;
+  background-image: url("H6.png");
+  background-repeat: no-repeat; 
+  background-size: cover;
+      }
+h2 {text-align: center;}
+h3 {text-align: center;
+  color: #450140;}
+
+div {text-align: center;}
+
+.hide {
+    display: none;
+  }
+      
+  .myDIV:hover + .hide {
+    display: block;
+    color: rgb(91, 14, 14);
+  }
+  p {text-align: center;}
+  
+  
